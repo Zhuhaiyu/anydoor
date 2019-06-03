@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# 忽略.swp临时文件
+*.swp
+
+# 
+.idea/
+
+# 
+.DS_Store
